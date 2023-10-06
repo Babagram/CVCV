@@ -1,0 +1,16 @@
+body {
+    background-color: tomato;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+main{
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    background-color: silver;
+}
